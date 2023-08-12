@@ -16,7 +16,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShikhaaT44&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShikhaaT44&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShikhaaT44&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
 [![ShikhaaT44's GitHub | Stats](https://stats.quine.sh/ShikhaaT44/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
+[![ShikhaaT44's GitHub | Languages Over Time](https://stats.quine.sh/ShikhaaT44/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
+[![ShikhaaT44's GitHub | Topics Over Time](https://stats.quine.sh/ShikhaaT44/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShikhaaT44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
