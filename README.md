@@ -1,11 +1,11 @@
 # 💫 Hey there! Shikhaa this side👋
-🔭 Juggling around learning new techs<br>🌱 I’m currently trying to setup some side hustles.<br>💬 Ask me about anything you wanna know !<br>🤭Pronouns: she/her/hers<br>⚡ P.S : I don't really judge but I do😅
+🔭 Juggling around learning new techs<br>🌱 I’m currently trying to setup some side hustles.<br>💬 Ask me about anything you wanna know !
 
 ### My content curations:
 <br>🎮<a href="https://shikhaablogs.hashnode.dev/">Hashnode Articles</a>
 <br>🎮<a href="">Medium Articles</a>
 </p>
-⏳Website: work in progress!
+⏳Portfolio Website: work in progress!
  
 ## 🌐 Socials round the web:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#9055) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shikhaa-t-a054b6217) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shikhaa_t44)  
