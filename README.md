@@ -19,8 +19,7 @@
 
 ---
 [![ShikhaaT44's GitHub | Stats](https://stats.quine.sh/ShikhaaT44/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
-[![ShikhaaT44's GitHub | Languages Over Time](https://stats.quine.sh/ShikhaaT44/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
-[![ShikhaaT44's GitHub | Topics Over Time](https://stats.quine.sh/ShikhaaT44/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
+[![An image of @shikhaat44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shikhaat44)](https://holopin.io/@shikhaat44)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShikhaaT44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
