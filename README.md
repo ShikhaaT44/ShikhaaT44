@@ -1,4 +1,7 @@
 ![Header](./github-header-image.JPG)
+<p>
+    <img alt = "header-img" src="/github-header-image.png" width="500" height="240" raw="true"/>
+</p>
 <br>
 # 💫 About Me:
 🔭 Juggling around learning new techs!<br>🎯 C urrently exploring my tech skills around MERN stack<br>📌 Trying to set up some side hustles alongside<br><br>🌱 constantly learning; curious forever..
