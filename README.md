@@ -1,4 +1,4 @@
-![Header](./github-header-image.jpg)
+![Header](./github-header-image.JPG)
 <br>
 # 💫 About Me:
 🔭 Juggling around learning new techs!<br>🎯 C urrently exploring my tech skills around MERN stack<br>📌 Trying to set up some side hustles alongside<br><br>🌱 constantly learning; curious forever..
