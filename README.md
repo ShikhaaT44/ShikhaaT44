@@ -1,9 +1,5 @@
-<!--- ![Header](./header.png)
-<p>
-    <img alt = "header-img" src="/github-header-image.png" width="500" height="240" raw="true"/>
-</p>
-<br>--->
-![header](https://github.com/ShikhaaT44/ShikhaaT44/assets/89783531/680b7cd8-b299-48bc-98fd-61e096f66cd8)
+![readme-profile-img](https://github.com/ShikhaaT44/ShikhaaT44/assets/89783531/b7e5b809-aff2-4018-ac4e-6821273686c8)
+
 # 💫 About Me:
 <br>
 🔭 Juggling around learning new techs!<br>🎯 Currently exploring my tech skills around MERN stack<br>📌 Trying to set up some side hustles alongside<br><br>🌱 constantly learning; curious forever..
