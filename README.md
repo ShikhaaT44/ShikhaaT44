@@ -3,6 +3,7 @@
     <img alt = "header-img" src="/github-header-image.png" width="500" height="240" raw="true"/>
 </p>
 <br>--->
+![header](https://github.com/ShikhaaT44/ShikhaaT44/assets/89783531/680b7cd8-b299-48bc-98fd-61e096f66cd8)
 # 💫 About Me:
 <br>
 🔭 Juggling around learning new techs!<br>🎯 C urrently exploring my tech skills around MERN stack<br>📌 Trying to set up some side hustles alongside<br><br>🌱 constantly learning; curious forever..
