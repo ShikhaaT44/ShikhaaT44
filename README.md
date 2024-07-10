@@ -23,13 +23,13 @@
 [![ShikhaaT44's GitHub | Stats](https://stats.quine.sh/ShikhaaT44/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
 [![An image of @shikhaat44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shikhaat44)](https://holopin.io/@shikhaat44)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<!-- ### ✍️ Random Dev Quote
+--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShikhaaT44&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+--->
 [![](https://visitcount.itsvg.in/api?id=ShikhaaT44&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
