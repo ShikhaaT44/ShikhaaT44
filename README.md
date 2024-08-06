@@ -46,8 +46,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShikhaaT44&theme=shades-of-purple&hide_border=false)
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 ![](https://github-readme-stats.vercel.app/api?username=ShikhaaT44&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
-<!--![](https://github-contributor-stats.vercel.app/api?username=ShikhaaT44&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+![](https://github-contributor-stats.vercel.app/api?username=ShikhaaT44&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 [![ShikhaaT44's GitHub | Stats](https://stats.quine.sh/ShikhaaT44/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
 
 
