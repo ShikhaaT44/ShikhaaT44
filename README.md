@@ -43,15 +43,15 @@
 <!--[GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)<br/>-->
 
 ## GitHub Stats
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShikhaaT44&theme=shades-of-purple&hide_border=false)
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-![](https://github-readme-stats.vercel.app/api?username=ShikhaaT44&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-contributor-stats.vercel.app/api?username=ShikhaaT44&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+![](https://github-readme-stats.vercel.app/api?username=ShikhaaT44&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
 [![ShikhaaT44's GitHub | Stats](https://stats.quine.sh/ShikhaaT44/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShikhaaT44)
 
 
 ## Tech Profile
+
 [![An image of @shikhaat44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shikhaat44)](https://holopin.io/@shikhaat44)
 [![](https://visitcount.itsvg.in/api?id=ShikhaaT44&icon=5&color=6)](https://visitcount.itsvg.in)
 <!-- ### ✍️ Random Dev Quote
